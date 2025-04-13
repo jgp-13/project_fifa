@@ -177,7 +177,7 @@ cython_debug/
 **/Untitled*.ipynb
 
 # Images
-*.jpg
+#*.jpg
 
 # Data
 data/
